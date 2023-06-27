@@ -5,7 +5,7 @@ summary: "Vietnamese Caramelized Pork Bowls"
 date: 2019-11-13T08:11:45-05:00
 draft: false
 time: "20m"
-tags: ["meat", "asian", "noodles", "savory," ]
+tags: ["pork", "asian", "noodles", "savory," ]
 featured_image: "https://poshjournal.com/wp-content/uploads/2020/08/vietnamese-caramelized-pork-bowls-4.jpg"
 ---
 
