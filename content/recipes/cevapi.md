@@ -5,7 +5,7 @@ summary: "Easy Balkan Beef Sausages"
 date: 2019-11-13T08:11:45-05:00
 draft: false
 time: "30m"
-tags: ["meat", "savory", "balkan",]
+tags: ["beef", "savory", "balkan",]
 featured_image: "https://www.wandercooks.com/wp-content/uploads/2023/01/cevapi-recipe-ft-1.jpg"
 ---
 
