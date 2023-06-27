@@ -22,7 +22,7 @@ Serves: 2
 - 1/2 teaspoon garlic, minced
 - 1 1/2 teaspoons paprika
 
-**For the seasoned butter**
+## For the seasoned butter
 - 1/4 cup (1/2 stick) unsalted butter, melted
 - 1/2 teaspoon paprika
 - 1/2 teaspoon lemon pepper
