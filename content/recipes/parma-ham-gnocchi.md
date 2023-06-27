@@ -5,7 +5,7 @@ summary: "Crispy Parma Ham Gnocchi"
 date: 2019-11-14T08:11:45-05:00
 draft: false
 time: "20m"
-tags: ["meat", "savory", "italian", ]
+tags: ["ham", "savory", "italian", ]
 featured_image: "https://mobkitchen-prod.objects.frb.io/recipes/IMG_6954.jpeg"
 ---
 Serves: 4
