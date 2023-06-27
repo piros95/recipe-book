@@ -1,6 +1,6 @@
-baseURL = "https://recipesbook.netlify.com/"
+baseURL = "https://carlynscookbook.netlify.com/"
 languageCode = "en-us"
-title = "Jason's Recipe Book"
+title = "Carlyn's Big Wrinkly Recipe Book"
 theme = "recipes"
 
 [params]
