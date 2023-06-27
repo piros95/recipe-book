@@ -1,31 +1,30 @@
 ---
-title: "Walnut Noodles"
-description: "Hungarian Sweet Walnut Pasta"
-summary: "Hungarian Sweet Walnut Pasta"
+title: "Spinach Stew"
+description: "Hungarian Spinach Stew"
+summary: "Hungarian Spinach Stew"
 date: 2019-12-06
 draft: false
-time: "15m"
-tags: ["pasta", "vegan", "hungarian", "sweet",]
-featured_image: "https://i.imgur.com/iOT5T98.png"
+time: "30m"
+tags: ["vegan", "hungarian", "savory",]
+featured_image: "https://i.imgur.com/VsYdxjC.png"
 ---
 
 Serves: 4
 
 ## Ingredients
 
-- 3/4 lbs dried pasta, ideally a long and thin variety called 'metélt' to which tagliolini or tagliatelle come closest 
-- 2 cup finely ground walnuts
-- 8 tbsp (1/2 cup) powdered sugar
-- 5 tbsp butter
-- Pinch of salt, for the pasta water
-- Runny apricot preserves
+- 2 1/4 lbs spinach, tough stems removed, leaves carefully cleaned of dirt by immersing them in a large bowl with two changes of cold water
+- 4 tablespoon olive oil
+- 2 cloves garlic, peeled and finely chopped (make it 3 if you're a garlic fan)
+- 1 teaspoon salt (more to taste)
+- 1 bread roll, soaked in milk and squeezed dry
+- 1/2 cup light cream
+- 2 egg yolks, whipped
+- Slices of crusty bread or boiled potatoes for the side
 
 ## Directions
 
-1. In a medium pot, bring 2.1 quarts salted water to a boil and cook pasta until al dente, about 7-8 minutes. Drain pasta, then add to a large pan or pot and toss with butter so that pasta becomes slippery on all sides.
-2. In the meantime, mix together freshly ground walnuts and powdered sugar in a medium bowl.
-3. Pour the walnut mixture onto the pasta and mix well so that all strands are nicely coated. Spoon individual portions into serving plates and serve while hot with a topping of runny apricot jam.
-
-**Notes**
-
-Given the simplicity of the noodle toppings here, it pays off to use a generous hand with both the walnut mixture and the fruit preserves and be sure to serve fresh off the stove (so NOT COLD).
+1. Heat oil in a large pot over medium-high, then add thoroughly cleaned spinach and sauté until it has wilted and released most of its water, about 6-8 minutes (you’ll likely have to add spinach in batches as the pot initially doesn’t fit them all, but the spinach will quickly lose most of its volume).
+2. Turn off heat. Add salt, pepper, chopped garlic, soaked bread roll, and using an immersion blender, purée the stew until smooth.
+3. Immediately after this, while stew is still hot, add light cream and the whipped egg yolks and stir vigorously for 1 minute. Yolks will help thicken the stew (be sure that the heat is off else the egg yolks will start to coagulate).
+4. Taste for salt and add more if needed. Serve the spinach stew in shallow bowls with a topping of fried or soft-boiled or poached egg and crusty bread or boiled potatoes on the side.
