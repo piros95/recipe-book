@@ -5,7 +5,7 @@ summary: "Quick Shrimp Fried Rice"
 date: 2019-11-13T08:11:45-05:00
 draft: false
 time: "20m"
-tags: ["fish", "asian", "savory",]
+tags: ["shrimp", "asian", "savory",]
 featured_image: "https://www.jessicagavin.com/wp-content/uploads/2021/02/shrimp-fried-rice-24-1200.jpg"
 ---
 
