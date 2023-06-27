@@ -5,7 +5,7 @@ summary: "Creamy Chicken Breast in Spinach Cheese Sauce"
 date: 2020-01-25T08:11:45-05:00
 draft: false
 time: "25m"
-tags: ["meat", "savory",]
+tags: ["chicken", "savory",]
 featured_image: "https://bigoven-res.cloudinary.com/image/upload/t_recipe-1280/chicken-with-spinach-in-creamy-parmesan-sauce-8372d8e79bef48ba9490a34f.jpg"
 ---
 
