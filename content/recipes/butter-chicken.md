@@ -5,7 +5,7 @@ summary: "Easy 20 Minute Butter Chicken"
 date: 2019-11-13T08:11:45-05:00
 draft: false
 time: "20m"
-tags: ["meat", "indian", "savory",]
+tags: ["chicken", "indian", "savory",]
 featured_image: "https://www.daringgourmet.com/wp-content/uploads/2019/12/Butter-Chicken-7.jpg"
 ---
 
