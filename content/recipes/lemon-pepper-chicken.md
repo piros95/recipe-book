@@ -5,7 +5,7 @@ summary: "Lemon Pepper Chicken Skewers"
 date: 2019-11-22T02:11:45-05:00
 draft: false
 time: "25m"
-tags: ["meat", "savory", "air fryer"]
+tags: ["chicken", "savory", "air fryer"]
 featured_image: "https://simply-delicious-food.com/wp-content/uploads/2019/06/lemon-herb-chicken-skewers-1.jpg"
 ---
 
